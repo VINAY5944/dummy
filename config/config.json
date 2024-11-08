@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "netstager",
+    "password": "vinay",
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "vinay",
+    "password": "netstager",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "vinay",
+    "password": "netstager",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
